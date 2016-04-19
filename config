@@ -1,0 +1,4 @@
+DB_HOST:'localhost'
+DB_DATABASE:'project'
+DB_USERNAME:'local'
+DB_PASSWORD:'local'
